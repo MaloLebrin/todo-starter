@@ -1,9 +1,10 @@
 {
   "name": "todo-starter",
   "version": "0.1.0",
-  "private": true,
+  "description": "exercise starter to learn vuejs DCCampus",
+  "private": false,
   "scripts": {
-    "serve": "vue-cli-service serve",
+    "dev": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint"
   },
